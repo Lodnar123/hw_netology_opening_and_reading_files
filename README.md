@@ -1,0 +1,1 @@
+# hw_netology_opening_and_reading_files
