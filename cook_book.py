@@ -23,6 +23,8 @@ def is_closed(file_):
     else:
         print('Файл открыт')    
 
+# Программа для создание кулинарной книги.
+
 cook_book = {}
 with open('recipes.txt', encoding='utf-8') as f:
     data = f.read().split('\n\n')
